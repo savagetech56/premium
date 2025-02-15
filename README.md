@@ -10,17 +10,17 @@ apt update && apt upgrade -y && update-grub && sleep 2 && reboot
 ```
 
 ## INSTALL SCRIPT 
-Masukkan perintah dibawah untuk menginstall Autoscript Premium by savagetech56 
+Autoscript Premium by savagetech56 
 ```
 apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/savagetech56/premium/main/premium.sh && chmod +x premium.sh && ./premium.sh
 ```
 
-## `WAJIB IZIN IP, SILAHKAN HUBUNGI ADMIN !`
-Gemilang Kinasih :
+## `CONTACT ADMIN !`
+savagetech56:
 <br><br><a href="https://wa.me/+254716637803" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
 
 ## UPDATE SCRIPT
-Masukkan perintah dibawah jika terdapat informasi pembaruan Script untuk versi yang akan datang
+via
 ```
 wget -q https://raw.githubusercontent.com/savagetech56/premium/main/update.sh && chmod +x update.sh && ./update.sh
 ```
