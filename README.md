@@ -70,7 +70,5 @@ wget -q https://raw.githubusercontent.com/savagetech56/premium/main/update.sh &&
 ```
 
 ## TAMPILAN MENU SCRIPT
-<img width="100%" alt="IMG-20250215-WA0003(1).jpg" src="https://github.com/savagetech56/premium/assets/154574742/66ea700d-59c9-418a-ac3d-d340e4564937">
+<img width="100%" alt="IMG-20250215-WA0003(1).jpg" src="https://github.com/savagetech56/premium/blob/main/assets/IMG-20250215-WA0003(1).jpg">
 
-## `! WARNING !`
-Script masih dalam tahap pengembangan, Jika menemukan bug bisa lapor ke - Admin 𝔾𝕖𝕞𝕚𝕝𝕒𝕟𝕘𝕂𝕚𝕟𝕒𝕤𝕚𝕙࿐
