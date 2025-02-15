@@ -69,6 +69,6 @@ wget -q https://raw.githubusercontent.com/savagetech56/premium/main/update.sh &&
 - UNDER ATTACK MODE : OFF
 ```
 
-## TAMPILAN MENU SCRIPT
+## MENU FOR SCRIPT
 <img width="100%" alt="IMG-20250215-WA0003(1).jpg" src="https://github.com/savagetech56/premium/blob/main/assets/IMG-20250215-WA0003(1).jpg">
 
