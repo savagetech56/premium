@@ -1,38 +1,36 @@
 ## UPGRADE FOR DEBIAN
-Masukkan perintah dibawah jika anda menggunakan OS Debian Version 9 atau 10
 ```
 apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
 ```
 
 ##  UPGRADE FOR UBUNTU
-Masukkan perintah dibawah jika anda menggunakan OS Ubuntu Version 18 atau 20
+OS Ubuntu Version 18 atau 20
 ```
 apt update && apt upgrade -y && update-grub && sleep 2 && reboot
 ```
 
 ## INSTALL SCRIPT 
-Masukkan perintah dibawah untuk menginstall Autoscript Premium by 𝔾𝕖𝕞𝕚𝕝𝕒𝕟𝕘𝕂𝕚𝕟𝕒𝕤𝕚𝕙࿐
+Masukkan perintah dibawah untuk menginstall Autoscript Premium by savagetech56 
 ```
-apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/gemilangvip/autoscript-free/main/ubu20-deb10-stable.sh && chmod +x ubu20-deb10-stable.sh && ./ubu20-deb10-stable.sh
+apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/savagetech56/premium/main/premium.sh && chmod +x premium.sh && ./premium.sh
 ```
 
 ## `WAJIB IZIN IP, SILAHKAN HUBUNGI ADMIN !`
 Gemilang Kinasih :
-<br><br><a href="https://wa.me/+628984880039" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
+<br><br><a href="https://wa.me/+254716637803" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
 
 ## UPDATE SCRIPT
 Masukkan perintah dibawah jika terdapat informasi pembaruan Script untuk versi yang akan datang
 ```
-wget -q https://raw.githubusercontent.com/gemilangvip/autoscript-free/main/update.sh && chmod +x update.sh && ./update.sh
+wget -q https://raw.githubusercontent.com/savagetech56/premium/main/update.sh && chmod +x update.sh && ./update.sh
 ```
 
 ## TESTED ON OS
 - UBUNTU Version 18 Atau 20 (Recommended)
 - DEBIAN Version 09 Atau 10
 
-## FITUR TAMBAHAN
-- Pemasangan yang Dinamis
-- User Details Akun
+## FEATURES 
+- User Details 
 - Auto Delete Expired
 - Auto Reboot Vps Server
 - Backup And Restore
