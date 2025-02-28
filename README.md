@@ -1,3 +1,15 @@
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=+W+E+L+C+O+M+E" />
+</p>
+</p>
+<img src="https://readme-typing-svg.herokuapp.com?color=%234d8c33ff&center=true&vCenter=true&lines=TO-SAVAGE-𝐓𝐄𝐂𝐇" />
+</p>
+<p align="center"> 
+ 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
+ <img src="https://profile-counter.glitch.me/savagetech56/count.svg" alt="Visitors">
+</p>
+
+
+
 ## UPGRADE FOR DEBIAN
 ```
 apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
