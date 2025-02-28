@@ -78,6 +78,7 @@ wget -q https://raw.githubusercontent.com/savagetech56/premium/main/update.sh &&
 
 ## MENU FOR SCRIPT
 <img width="100%" alt="IMG-20250215-WA0003(1).jpg" src="https://github.com/savagetech56/premium/blob/main/assets/IMG-20250215-WA0003(1).jpg">
-## `CONTACT ADMIN !`
+
+### CONTACT ADMIN !
 savagetech56:
 <br><br><a href="https://wa.me/+254716637803" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
